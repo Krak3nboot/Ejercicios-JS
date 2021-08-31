@@ -6,6 +6,9 @@ a) La duración en segundos de un intervalo dado en horas, minutos y segundos.
 b) La duración en horas, minutos y segundos de un intervalo dado en segundos.
 
 
+
+
+
                         Ejercicio 3.9.2. 
 
 Usando las funciones del ejercicio anterior, escribir un programa que pida al
@@ -18,19 +21,6 @@ por pantalla la duración total en horas, minutos y segundos.
 Escribir una función que, dados cuatro números, devuelva el mayor producto
 de dos de ellos. Por ejemplo, si recibe los números 1, 5, -2, -4 debe devolver 8, que es el producto
 más grande que se puede obtener entre ellos (8 = −2 × −4). 
-
-
-                        Ejercicio 4.6.4. 
-
-Escribir funciones que permitan encontrar:
-a) El máximo o mínimo de un polinomio de segundo grado (dados los coeficientes a, b y
-c), indicando si es un máximo o un mínimo.
-b) Las raíces (reales o complejas) de un polinomio de segundo grado.
-Nota: validar que las operaciones puedan efectuarse antes de realizarlas (no dividir por
-cero, ni calcular la raíz de un número negativo).
-c) La intersección de dos rectas (dadas las pendientes y ordenada al origen de cada recta).
-Nota: validar que no sean dos rectas con la misma pendiente, antes de efectuar la operación.
-
 
                         Ejercicio 4.6.5. 
 
